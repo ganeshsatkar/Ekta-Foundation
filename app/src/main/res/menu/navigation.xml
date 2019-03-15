@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/navigation_request"
+        android:icon="@drawable/feedbackicon"
+        android:title="प्रतिक्रिया"
+       app:showAsAction="always|withText"/>
+
+
+    <item
+        android:id="@+id/navigation_donation"
+        android:icon="@drawable/donation1"
+        android:title="डोनेशन"
+        app:showAsAction="always|withText"/>
+
+    <!--<item
+        android:id="@+id/navigation_testimonial"
+        android:icon="@drawable/bthree"
+        android:title="Testimonial"
+        app:showAsAction="always|withText"/>-->
+
+    <item
+        android:id="@+id/navigation_fullscreen"
+        android:icon="@drawable/websiteicon"
+        android:title="वेबसाइट"
+        app:showAsAction="always|withText" />
+
+</menu>

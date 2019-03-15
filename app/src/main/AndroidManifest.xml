@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="grdp.ganeshinc.ektango">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission
+        android:name="android.permission.READ_PHONE_STATE"
+        tools:node="remove" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission
+        android:name="android.permission.GET_ACCOUNTS"
+        tools:node="remove" />
+    <uses-permission
+        android:name="android.permission.READ_PROFILE"
+        tools:node="remove" />
+    <uses-permission
+        android:name="android.permission.READ_CONTACTS"
+        tools:node="remove" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ekatalogo1"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+
+        <activity android:name=".Splashscreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".Home1"
+            android:label="@string/m1"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".About"
+            android:label="@string/m2"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".Vision"
+            android:label="@string/m3"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".Program"
+            android:label="@string/m4"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".Ruraldev"
+            android:label="@string/m5"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".Gallery"
+            android:label="@string/m6"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".Moreimage"
+            android:label="More Photo"
+            android:parentActivityName=".Gallery" />
+        <activity
+            android:name=".Contact"
+            android:label="@string/m7"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".Award"
+            android:label="@string/m8"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".Donation"
+            android:label="@string/m9"
+            android:parentActivityName=".MainActivity" />
+
+                       <activity
+                              android:name=".Paydonation"
+                              android:label="@string/m9"
+                              android:parentActivityName=".Donation" />
+        <activity
+            android:name=".Epaper"
+            android:label="@string/m10"
+            android:parentActivityName=".MainActivity" />
+
+        <activity android:name=".Epayment"
+            android:label="@string/m11"
+            android:parentActivityName=".MainActivity" />
+
+        <activity
+        android:name=".Impinformation"
+        android:label="@string/m12"
+        android:parentActivityName=".MainActivity" />
+
+        <activity
+            android:name=".Feedback"
+            android:label="@string/m13"
+            android:parentActivityName=".MainActivity" />
+
+        <activity
+            android:name=".Designby"
+            android:label="Design By"
+            android:parentActivityName=".MainActivity" />
+
+        <activity
+            android:name=".Upcoming_event"
+            android:label="Upcoming Event"
+            android:parentActivityName=".MainActivity" />
+
+
+
+        <service
+            android:name=".MessagingService">
+            <intent-filter>
+                <action android:name="com.google.firebase.MESSAGING_EVENT"/>
+            </intent-filter>
+        </service>
+
+        <meta-data
+            android:name="com.google.firebase.messaging.default_notification_icon"
+            android:resource="@drawable/ekatalogo1" />
+        <!-- Set color used with incoming notification messages. This is used when no color is set for the incoming
+             notification message. See README(https://goo.gl/6BKBk7) for more. -->
+        <meta-data
+            android:name="com.google.firebase.messaging.default_notification_color"
+            android:resource="@color/colorAccent" />
+    </application>
+
+</manifest>

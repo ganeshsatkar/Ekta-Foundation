@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+       <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:scrollbars="vertical">
+
+        <LinearLayout
+            android:paddingBottom="30dp"
+            android:background="#e7e7e1"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="15dp"
+            android:orientation="vertical">
+
+
+            <TextView
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textAlignment="center"
+                android:textStyle="bold"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="@string/award"
+
+
+                android:textSize="15sp"/>
+
+
+
+
+            <ImageView
+                android:scaleType="fitXY"
+                android:layout_width="match_parent"
+                android:layout_height="170dp"
+                android:id="@+id/imageView"
+
+                android:layout_marginTop="7dp"
+                android:src="@drawable/flif5" />
+
+            <Button
+                android:textStyle="bold"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp"
+                android:background="#5cc7d6"
+                android:text="@string/awardekta"/>
+
+            <ImageView
+
+                android:layout_gravity="center"
+                android:layout_width="150dp"
+                android:layout_height="220dp"
+                android:layout_marginTop="7dp"
+                android:src="@drawable/ektaaward2" />
+
+            <TextView
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textAlignment="center"
+                android:textStyle="bold"
+                android:layout_marginBottom="10dp"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="@string/award1"
+                android:id="@+id/textView"
+                android:textSize="15sp"/>
+
+
+
+
+            <ImageView
+                android:scaleType="fitXY"
+                android:layout_width="match_parent"
+                android:layout_height="250dp"
+                android:id="@+id/imageView1"
+                android:layout_marginBottom="10dp"
+                android:layout_marginTop="7dp"
+                android:src="@drawable/ektaaward3"
+                android:paddingBottom="10dp"/>
+<Button
+    android:layout_width="match_parent"
+    android:layout_height="1dp"
+    android:background="#000"/>
+
+
+
+
+        </LinearLayout>
+
+    </ScrollView>
+</RelativeLayout>
+
+
+

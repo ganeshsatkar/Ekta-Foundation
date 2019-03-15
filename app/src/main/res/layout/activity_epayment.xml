@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bag5"
+    android:layout_gravity="center"
+    android:gravity="center"
+    android:foregroundGravity="center"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".MainActivity">
+
+
+
+
+    <LinearLayout
+
+        android:foregroundGravity="center"
+        android:background="#fcfcfc"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        tools:ignore="UselessParent">
+
+
+        <ScrollView
+            android:id="@+id/scrollView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="UselessParent">
+
+
+            <LinearLayout
+
+                android:foregroundGravity="center"
+                android:layout_gravity="center"
+                xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:app="http://schemas.android.com/apk/res-auto"
+                xmlns:tools="http://schemas.android.com/tools"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                tools:context="com.demotxt.droidsrce.homedashboard.Home"
+                android:orientation="vertical"
+                android:padding="5dp"
+                android:background="#1431ea"
+                android:gravity="center"
+                android:id="@+id/ll">
+
+
+                <LinearLayout
+
+                    android:background="#fa7916"
+                    android:clipToPadding="false"
+                    android:gravity="center"
+                    android:orientation="horizontal"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                    <android.support.v7.widget.CardView
+                        android:foreground="?android:attr/selectableItemBackground"
+                        android:clickable="true"
+
+                        android:id="@+id/dth"
+                        android:layout_width="152dp"
+                        android:layout_height="120dp"
+                        android:layout_margin="5dp"
+                        tools:ignore="KeyboardInaccessibleWidget">
+
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:orientation="vertical"
+                            android:gravity="center">
+
+                            <ImageView
+                                android:layout_width="130dp"
+                                android:layout_height="65dp"
+                                android:background="#a8f4f0"
+                                android:src="@drawable/dth"
+                                android:padding="2dp"
+                                tools:ignore="ContentDescription,VectorDrawableCompat" />
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:textStyle="bold"
+                                android:layout_marginTop="8dp"
+                                android:text="DTH Recharge"/>
+                            <View
+                                android:layout_width="match_parent"
+                                android:layout_height="1dp"
+                                android:background="@color/lightgray"
+                                android:layout_margin="5dp"/>
+
+
+                        </LinearLayout>
+                    </android.support.v7.widget.CardView>
+
+
+                    <android.support.v7.widget.CardView
+                        android:foreground="?android:attr/selectableItemBackground"
+                        android:clickable="true"
+                        android:id="@+id/electricity"
+                        android:layout_width="152dp"
+                        android:layout_height="120dp"
+                        android:layout_margin="5dp"
+                        tools:ignore="KeyboardInaccessibleWidget">
+
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:orientation="vertical"
+                            android:gravity="center">
+
+                            <ImageView
+                                android:layout_width="130dp"
+                                android:layout_height="65dp"
+                                android:background="#a8f4f0"
+                                android:src="@drawable/electricity1"
+                                android:padding="2dp"
+                                tools:ignore="ContentDescription,VectorDrawableCompat" />
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:textStyle="bold"
+                                android:layout_marginTop="8dp"
+                                android:text="Electricity Bill"/>
+                            <View
+                                android:layout_width="match_parent"
+                                android:layout_height="1dp"
+                                android:background="@color/lightgray"
+                                android:layout_margin="5dp"/>
+
+
+                        </LinearLayout>
+                    </android.support.v7.widget.CardView>
+
+
+
+
+                </LinearLayout>
+
+
+
+
+                <LinearLayout
+                    android:background="#f4f7f4"
+                    android:clipToPadding="false"
+                    android:gravity="center"
+                    android:orientation="horizontal"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                    <android.support.v7.widget.CardView
+                        android:foreground="?android:attr/selectableItemBackground"
+                        android:clickable="true"
+
+                        android:id="@+id/prepaid"
+                        android:layout_width="152dp"
+                        android:layout_height="120dp"
+                        android:layout_margin="5dp"
+                        tools:ignore="KeyboardInaccessibleWidget">
+
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:orientation="vertical"
+                            android:gravity="center">
+
+                            <ImageView
+                                android:layout_width="130dp"
+                                android:layout_height="65dp"
+                                android:background="#a8f4f0"
+                                android:src="@drawable/prepaid1"
+                                android:padding="2dp"
+                                tools:ignore="ContentDescription,VectorDrawableCompat" />
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:textStyle="bold"
+                                android:layout_marginTop="8dp"
+                                android:text="Prepaid Reachage"/>
+                            <View
+                                android:layout_width="match_parent"
+                                android:layout_height="1dp"
+                                android:background="@color/lightgray"
+                                android:layout_margin="5dp"/>
+
+
+                        </LinearLayout>
+                    </android.support.v7.widget.CardView>
+
+
+                    <android.support.v7.widget.CardView
+                        android:foreground="?android:attr/selectableItemBackground"
+                        android:clickable="true"
+
+                        android:id="@+id/postpaid"
+                        android:layout_width="152dp"
+                        android:layout_height="120dp"
+                        android:layout_margin="5dp"
+                        tools:ignore="KeyboardInaccessibleWidget">
+
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:orientation="vertical"
+                            android:gravity="center">
+
+                            <ImageView
+                                android:layout_width="130dp"
+                                android:layout_height="65dp"
+                                android:background="#a8f4f0"
+                                android:src="@drawable/postpaid1"
+                                android:padding="2dp"
+                                tools:ignore="ContentDescription,VectorDrawableCompat" />
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:textStyle="bold"
+                                android:layout_marginTop="8dp"
+                                android:text="PostPaid Bill"/>
+                            <View
+                                android:layout_width="match_parent"
+                                android:layout_height="1dp"
+                                android:background="@color/lightgray"
+                                android:layout_margin="5dp"/>
+
+
+                        </LinearLayout>
+                    </android.support.v7.widget.CardView>
+
+
+
+
+                </LinearLayout>
+
+
+                <LinearLayout
+                    android:background="#178117"
+                    android:clipToPadding="false"
+                    android:gravity="center"
+                    android:orientation="horizontal"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                    <android.support.v7.widget.CardView
+                        android:foreground="?android:attr/selectableItemBackground"
+                        android:clickable="true"
+
+                        android:id="@+id/phonepe"
+                        android:layout_width="152dp"
+                        android:layout_height="120dp"
+                        android:layout_margin="5dp"
+                        tools:ignore="KeyboardInaccessibleWidget">
+
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:orientation="vertical"
+                            android:gravity="center">
+
+                            <ImageView
+                                android:layout_width="130dp"
+                                android:layout_height="65dp"
+                                android:background="#a8f4f0"
+                                android:src="@drawable/phonepe"
+                                android:padding="2dp"
+                                tools:ignore="ContentDescription,VectorDrawableCompat" />
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:textStyle="bold"
+                                android:layout_marginTop="8dp"
+                                android:text="Money Transfer"/>
+                            <View
+                                android:layout_width="match_parent"
+                                android:layout_height="1dp"
+                                android:background="@color/lightgray"
+                                android:layout_margin="5dp"/>
+
+
+                        </LinearLayout>
+                    </android.support.v7.widget.CardView>
+
+
+                    <android.support.v7.widget.CardView
+                        android:foreground="?android:attr/selectableItemBackground"
+                        android:clickable="true"
+
+                        android:id="@+id/tez"
+                        android:layout_width="152dp"
+                        android:layout_height="120dp"
+                        android:layout_margin="5dp"
+                        tools:ignore="KeyboardInaccessibleWidget">
+
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:orientation="vertical"
+                            android:gravity="center">
+
+                            <ImageView
+                                android:layout_width="130dp"
+                                android:layout_height="65dp"
+                                android:background="#a8f4f0"
+                                android:src="@drawable/tez"
+                                android:padding="2dp"
+                                tools:ignore="ContentDescription,VectorDrawableCompat" />
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:textStyle="bold"
+                                android:layout_marginTop="8dp"
+                                android:text="Money Transfer"/>
+                            <View
+                                android:layout_width="match_parent"
+                                android:layout_height="1dp"
+                                android:background="@color/lightgray"
+                                android:layout_margin="5dp"/>
+
+
+                        </LinearLayout>
+                    </android.support.v7.widget.CardView>
+
+
+
+
+                </LinearLayout>
+
+
+
+
+
+
+            </LinearLayout>
+
+
+        </ScrollView>
+    </LinearLayout>
+
+
+
+
+
+
+</RelativeLayout>

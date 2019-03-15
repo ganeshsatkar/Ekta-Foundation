@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "127800909976",
+    "firebase_url": "https://ekta-foundation.firebaseio.com",
+    "project_id": "ekta-foundation",
+    "storage_bucket": "ekta-foundation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127800909976:android:3cc042eaa4945037",
+        "android_client_info": {
+          "package_name": "grdp.ganeshinc.ektango"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "127800909976-u1214asac0lvfacpmi76n1c5u4qgvffo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "grdp.ganeshinc.ektango",
+            "certificate_hash": "cf6d157cf0a2ef8bbf495b1c82d8b776c5db1431"
+          }
+        },
+        {
+          "client_id": "127800909976-r2apjh0o0107fabbdmpn0a45outm77oh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALflpiBglpjdOuRR7NRDmZ895Y8xyngig"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "127800909976-r2apjh0o0107fabbdmpn0a45outm77oh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

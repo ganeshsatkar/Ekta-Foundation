@@ -1,0 +1,239 @@
+<resources>
+    <!--<string name="app_name"> Ekta </string>-->
+    <string name="app_name"> एकता फाउंडेशन </string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="addUnit">ca-app-pub-7233052509464359/9946060443</string>
+
+    <string name="welcome">WElCOME</string>
+    <string name="meg">EKTA FOUNDATION</string>
+    <string name="title_activity_durgsanvardhan"> durgsanvardhan</string>
+    <string name="programs"> उपक्रम  </string>
+    <string name="vruksh"> वृक्षारोपण आणि संवर्धन - 1 </string>
+    <string name="upkram">उपक्रम</string>
+    <string name="vruksh2">वृक्षारोपण आणि संवर्धन - 2</string>
+    <string name="vruksha3">वृक्षारोपण आणि संवर्धन - 3</string>
+    <string name="vruttpatra">मोफत वृत्तपत्र वाचनालय</string>
+    <string name="scoutcamp">विद्यार्थी स्काउट-गाईड कॅम्प</string>
+    <string name="shikshak">शिक्षक गुणगौरव समारंभ</string>
+    <string name="computer">विद्यार्थ्यासाठी सांस्कृतिक कार्यक्रम</string>
+    <string name="computer1">विद्यार्थी कल्याणकारी योजना</string>
+    <string name="bhajani">भजनी मंडळ गौरव</string>
+    <string name="durg">दुर्गसंवर्धन मोहीम</string>
+    <string name="vardhapandin">प्रथम वर्धापन दिन सोहळा</string>
+    <string name="khau1">शालेय मुलांना भेटवस्तू व खाऊ वाटप </string>
+
+
+
+
+    <string name="vardha">एकता फौन्डेशनचा प्रथम वर्धापन दिन सोहळा दिनांक ३१ ऑक्टोबर २०१६ रोजी दिवाळी पाडव्याच्या शुभमुहार्तावर संपन्न झाला.
+यामध्ये माननीय प्रा.पंकज गावडे यांचे व्याख्यान झाले </string>
+    <string name="vardha1">त्याचप्रमाणे या वर्षात विशेष कामगिरी केलेल्या विद्यार्थाचा मानचिह्न ,प्रशस्तीपत्र तसेच पुष्पगुच्छ देऊन गौरव करण्यात आला.</string>
+    <string name="vardha2">तसेच एकता फौन्डेशनच्या वेबसाईटचे अनावरण मान्यवरांच्या शुभहस्ते पार पडले.</string>
+    <string name="vardha3">याच कार्यक्रमाचे औचित्य साधून समस्त ग्रामस्त व तरुण म्हसवंडीकरांनी भव्य अश्या टिपिकल डान्स स्पर्धा संपन्न करून या दुग्धशर्करा कार्यक्रमात केशर टाकण्याचे काम केले. यामुळे कार्यक्रमाला आणखिनच बहर आला.  </string>
+    <string name="bhajani1">९९ व्या अखंड हरीनाम सप्ताहाचे औचित्य साधून हनुमान प्रासादिक भजनी मंडळ म्हसवंडी व हि भजन कला आतापर्यत जपून ठेवण्यात ज्या व्यक्तींचा वाटा राहिला आहे अशा भजनी मंडळाच्या सदस्यांचा व भजनी मंडळाचा सन्मानसोहळा फौन्डेषणच्या वतीने करण्यात आला.
+
+</string>
+
+    <string name="khau">प्रजासत्ताक दिनाचे औचित्य साधून २६ जानेवारी २०१७ रोजी जिल्हा परिषद प्राथमिक शाळा म्हसवंडी तसेच जिल्हा परिषद प्राथमिक शाळा ब्राम्हनदरा-म्हसवंडी व शासकीय आदिवासी आश्रम शाळा म्हसवंडी या शाळेतील विद्यार्थ्यांना खाऊचे डबे भेटवस्तू म्हणून देण्यात आले त्याचप्रमाणे प्रजासत्ताक दिनाच्या कार्यक्रमाला उपस्थित सर्व संस्थांच्या कर्मचाऱ्यांना, गावकर्यांना तसेच तीनही शाळेतील सर्व मुलांना फौन्डेषणच्या वतीने खाऊ वाटप करण्यात आला.
+या विशेष दिनाच्या विशेष उपक्रमाचा आनंद सर्वांनाच झाला आणि त्याप्रती सर्वांनीच कौतुक व समाधान व्यक्त केले.
+</string>
+
+
+    <string name="award">सन्मान एकताचा ...सन्मान प्रत्येक सदस्याचा ...त्यांच्या मेहनतीचा ..!</string>
+    <string name="award1">सह्याद्री पुरस्कार 2017 .
+        \n
+ गौरव : - एकता फाऊंडेशन,म्हसवंडी.
+        \n\n
+
+सामाजिक व दुर्गसंवर्धन क्षेत्रात उल्लेखनीय कामगिरी केल्याबद्दल  सह्याद्री प्रतिष्ठान ,महाराष्ट्र राज्य यांच्या तर्फे एकता फौंडेशनला यावर्षीचा सह्याद्री पुरस्कार देऊन सन्मानित करण्यात आले.
+        \n
+
+राज्यभरातील निवडक ११ संस्थांना आज हा पुरस्कार पुणे येथे सह्याद्री प्रतिष्ठान, महाराष्ट्र च्या वतीने आमदार संजय केळकर, पै. विजय चौधरी(ट्रिपल महाराष्ट्र केसरी व डी वाय एस पी), श्री. भानुप्रताप बर्गे (ए टी एस प्रमुख पुणे), दुर्ग अभ्यासक श्री. श्रमिक गोजमगुंडे, श्री. गणेश खुटवड - पाटील यांच्या प्रमुख उपस्थितीत प्रदान करण्यात आला.
+
+हा सन्मान एकता फौंडेशनच्या प्रत्येक सदस्याचा आहे त्यांनी घेतलेल्या मेहणतीचा आहे.
+        \n नक्कीच हा सन्मान आम्हाला पुढील कार्यास प्रेरणा देईल..!</string>
+    <string name="award2">सन्मान एकताचा …सन्मान प्रत्येक सदस्याचा …त्यांच्या मेहनतीचा ....!</string>
+    <string name="awardekta"> सह्याद्री पुरस्कार २०१७</string>
+    <string name="about_us">\tआपन ज्या समाजात राहतो त्या समाजचे आपल्यावर उपकार आहेत आणि त्या उपकाराची परतफेड करन्याच्या प्रामाणीक हेतुने स्थापण झालेली अस्सल तरुणांची एक संघटना / संस्था म्हणजेच.....
+
+\n<b>एकता फाउंडेशन.</b>
+
+\n\n\tएकता फाउंडेशन ही एक अशी संस्था आहे जी एका व्हाट्स अप समुहातुन निर्माण झाली आहे .वृक्षारोपण कार्यक्रमाच्या निमीत्ताने एकत्र आलेले तरुण कायमचे एकत्र झाले ते एकता च्या रुपाने .या संस्थेच्या नावातुनच आमची आमची ताकद काय आहे ते लक्षात येते ती म्हणजे एकी  .
+सर्वांची एकी ही एकता ची खरी ताकद आहे .
+\n\nकुठल्याही राजकारणात न पडता गावच्या विकासाच्या दृष्टीने आपन काहीतरी करु शकतो या भावनेने गावातीलच पण रोजीरोटी साठी इतर शहरांमधे असलेल्या तरुणान्नी एकत्र येन्याचा विचार केला आणि एका छत्राखाली सर्व एकवटले ते छत्र आहे <b>एकता फाउंडेशन</b>
+
+\n\n\tएकता फाउंडेशन ही एक अशी संघटना आहे ज्यामध्ये कोनतेही पद अस्तीत्वात नाही. सर्वच सदस्य या संस्थेचे अध्यक्ष आहे , सेक्रेटरी आहेत आणि खजीनदार आहेत . संस्थे मार्फत काय उपक्रम घ्यायला हवा हे ज्याच्या मनात येइल तो आपले मत मांडतो, त्यावर चर्चा होते आणि सर्व मान्य असेल तर उपक्रम राबवला जातो .
+
+\n\n\tम्हसवंडी गावच्या विकासाचा प्राधान्याने विचार हेच एकता फाउंडेशन चे धेय्य आहे . पण आम्हास खात्री आहे आमची सीमा म्हसवंडी गावापुरती मर्यादीत न राहता आम्ही  नजीकच्या भविष्यकाळात गावाच्या बाहेर देखील कार्य चालु करनार आहोत .
+
+
+\n\n\tलोकवर्गणी आणि देणगी रुपातील मदत हाच आमचा स्रोत आहे . आम्हाला देणगी रुपात मीळालेली मदत आम्ही गरजु लोकांपर्यंत पोचवन्याचा प्रामानीक प्रयत्न करत आहोत आणि करत राहु  . कुठल्याही राजकीय पक्षाचा प्रत्यक्ष किंवा अप्रत्यक्ष देखील आमच्या संस्थेत हस्तक्षेप नाही .
+
+
+\n\n\tकेवळ निर्मळ भावनेने समाजाचे, निसर्गाचे  ऋण आपल्यावर आहेत आणि त्यातुन उतराइ होन्याच्या हेतुन निर्माण झालेली ही संस्था आहे .
+</string>
+    <string name="about_us_title">आमच्याबद्दल</string>
+    <string name="purskar">पुरस्कार</string>
+
+
+    <string name="gramvikas">गावे आणि विशेषतः खेडी गावे हि आपल्या  भारत देशाची खरी शक्ती आहे.  भारताला जर एक बलशाली राष्ट्र बनण्याचे स्वप्न पाहायचे असेल तर  स्वावलंबी, स्वयंपूर्ण खेडी बनल्याशिवाय ते शक्य होऊ शकत नाही आणि हे फक्त सामाजिक बांधिलकी आणि सामान्य माणसाच्या सहभागाच्या माध्यमातून साध्य करता येऊ शकते.  आणि ह्याच गोष्टी डोळ्यासमोर ठेऊन ग्रामविकास हे एकता फौन्डेशन चे प्रथम व्हिजन आहे.
+त्यामध्ये
+शेतकरी, गावतील लोक, शिक्षक, सहकारी संस्था, स्वयंसेवी संघटनांना प्रेरणा देणे, वनीकरण ,वृक्षारोपण  व एकात्मिक ग्रामीण विकास कार्यक्रम घेते, जमीन व पाण्याच्या प्रभावी वापर निर्माण करते आणि अपारंपरिकपद्धतीने माध्यमातून उर्जा निर्मिती प्रोत्साहन देते याप्रकारच्या गोष्ठी समाविष्ट आहे</string>
+    <string name="janjagruti">आज समाजाला अनेक गोष्टीमध्ये जागृत करणे गरजेचे आहे. आपल्या हक्काच्या मुलभूत गोष्टीपासून ते समाजपरिवर्तनाच्या वा सामजिक बांधिलकीच्या अनेक गोष्ठीपर्यंत. हि जनजागृती समाजाच्या मानसिकतेत खूप चांगल्या प्रकारे बदल घडवून आणणारी आहे. आणि या गोष्टीला जास्त महत्व देने हे एकता फौन्डेशनचे दुसरे व्हिजन आहे.
+
+\n‘त्यामध्ये झाडे लावा झाडे जगवा’
+\n‘माती अडवा पाणी जिरवा‘
+\nपाणी वाचवा जीव वाचवा’
+\nहरित पर्यावरणाबद्दल जनजागृती.
+चांगल्या गोष्टींना प्रोत्साहन देणे याप्रकारच्या गोष्ठी सामाविष्ट आहे.</string>
+    <string name="shikshan">आज शिक्षण हि मानवाची आज मुलभूत गरज आहे. सर्वसामान्य घरापर्यंत शिक्षणाची ज्योत पोहचावी हे संस्थेचे प्रमुख ध्येय आहे. आधुनिक आणि सर्वगुणसंपन्न शिक्षण तळागाळातील व्यक्तीला मिळावे आणि यासाठी प्रयत्न हे एकता फौन्डेशनचे तिसरे व्हिजन आहे.</string>
+    <string name="paryavaran">पर्यावरणरक्षण  हि काळाची खरी गरज बनली आहे. पर्यावरणाचा समतोल ढासळू नये म्हणून त्यावर उपाययोजना आणि सर्वोतोपरी प्रयत्न हे एकता फौन्डेशनचे चौथे महत्वाचे व्हिजन आहे.
+</string>
+    <string name="samajikaikya">आज समाजात ऐक्य प्रस्थापित करायचे असेल तर सर्व समाजाने सर्व मतभेद विसरून एकत्र येणे गरजेचेआहे.  जातीभेत ,वर्णभेद, उच्च नीच भेद विसरून समाजात ऐक्य प्रस्थापित करणे हे एकता फौन्डेशन चे पाचवे महत्वाचे व्हिजन आहे.</string>
+    <string name="itar">त्याचप्रमाणे विविध परिस्थितीनुसार निर्माण होणारे ध्येय डोळ्यासमोर ठेऊन एकता फौन्डेशन कार्य करण्याचा प्रयत्न देखील करत आहे.</string>
+    <string name="visionprashtavana">अनेक गोष्ठीमध्ये आज विकासाची गरज आहे हे ओळखून एकता फौन्डेशन ने एक महत्वाची पंचसूत्री व्हिजन तयार केले आहे. त्यावर सर्वाधिक भर देऊन ते साध्य करण्याचे महत्वाचे उद्दीष्ठ एकता फौन्डेशनच्या डोळ्यापुढे आहे.</string>
+    <string name="janjagruti1">जनजागृती</string>
+    <string name="shikshan1">शिक्षण</string>
+    <string name="paryavaran1">पर्यावरण</string>
+    <string name="samajikaikya1">सामाजिक ऐक्य</string>
+
+
+    <string name="home">होम</string>
+    <string name="upkram1">उपक्रम</string>
+    <string name="sampark">संपर्क</string>
+    <string name="purskarlabale">पुरस्कार</string>
+    <string name="amchyabaddal">आमच्याबद्दल</string>
+    <string name="gramvikas1">ग्रामविकास</string>
+    <string name="websitelabel">वेबसाईट</string>
+    <string name="mahtvachekarykramlabale">महत्वाचे कार्यक्रम</string>
+    <string name="dhyey">ध्येय</string>
+    <string name="gallerylabale">गॅलरी</string>
+    <string name="socialmedialabel">सोशल मिडिया</string>
+    <string name="sahayya">सहाय्य</string>
+    <string name="imageview" />
+    <string name="welcomemsg">Welcome To \n Ekta Foundation, Mhaswandi</string>
+
+
+    <string name="development">  \tभारत हा खेड्यांचा देश आहे, हे लक्षात घेऊन ग्रामविकास झाला की राष्ट्राचा विकास होईल, अशी अनेक विचारवंतांचे विचार होते आणि तीच विचारसरणी एकता फौंडेशनची आहे. समाजातल्या सर्व घटकांतील लोकांचा उद्धार कसा होईल, यासाठी एकता फौंडेशन सर्वोतोपरी प्रयत्न करत आहे.
+
+ \n\n\tग्रामोन्नती व ग्रामकल्याण हा प्रमुख केंद्रबिंदू ठेवून ग्रामविकासाच्या विविध समस्यांचा मूलभूतस्वरूपी विचार करून त्या समस्या कशा सोडवाव्यात, याविषयी उपाययोजना सुचवून त्या पूर्ण करण्यात एकता फौन्डेशनने महत्वाचे पाउल उचलले आहे.
+
+\n\n\tखेडेगाव स्वयंपूर्ण कसे होईल, याविषयीची जी उपाययोजना एकता फौन्डेशनने सुचविल्या आहेत, त्या अतिशय परिणामकारक ठरतील अशी खात्री आहे .
+
+\n\n\tग्राम हे सुशिक्षित व्हावे, सुसंस्कृत व्हावे, ग्रामोद्योग संपन्न व्हावेत, गावानेच देशाच्या गरजा भागवाव्यात, ग्रामोद्योगांना प्रोत्साहन मिळा्वे, नव्या शिकलेल्या पिढीने गावात थांबावे अशा अनेक गोष्ठी करण्यासाठी संस्था प्रयत्नशील आहे. त्यासाठीच एकता फौन्डेशनने ग्रामविकासावर आवश्यक तो भर दिला आहे.
+
+
+
+\n\n\tत्यासाठी पहिली पर्यावरण उपयोगी कामे गावात राबवण्यात आली आहे त्यामध्ये वृक्षलागवड आणि संवर्धन मोहीम महत्वाची आहे. त्याचप्रमाणे नवीन माहिती लवकर मिळावी यासाठी मोफत वृत्तपत्र वाचनालय सुरु केले आहे. लहान मुलांना नवीन तंत्रज्ञानाची माहिती व्हावी म्हणून संगणक गावातील शिकणाऱ्या मुलांना देण्यात आला. गावात काम करणाऱ्या अनेक लहान मोठ्या संस्थांना त्यांच्या प्रत्येक कामात सर्वोतोपरी सहकार्य करण्याची भूमिका एकता फौन्डेशनने घेतली आहे.
+
+\n\n\tअशाच प्रकारे पुढील काळात अनेक  खेडेगावांमध्ये या ग्रामोन्नतीच्या उपाययोजना राबविण्यात एकता फौडेषण प्रयत्नशील राहील.
+</string>
+
+
+    <string name="purskarlabel">पुरस्कार</string>
+    <string name="title_activity_ropan3">ropan3</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+
+    <string name="swap"> --------- सरकवा --------- </string>
+
+
+    <string name="openDrawer">open_drawer</string>
+    <string name="closeDrawer">close_drawer</string>
+
+
+    <string name="nav_home">Home</string>
+    <string name="nav_photos">Photos</string>
+    <string name="nav_movies">Movies</string>
+    <string name="nav_notifications">Notifications</string>
+    <string name="nav_settings">Settings</string>
+    <string name="nav_about_us">About Us</string>
+
+
+    <string-array name="nav_item_activity_titles">
+        <item>Home</item>
+        <item>Photos</item>
+        <item>Movies</item>
+        <item>Notifications</item>
+        <item>Settings</item>
+    </string-array>
+
+    <string name="activity_title_about_us">About Us</string>
+    <string name="activity_title_privacy_policy">Privacy Policy</string>
+    <string name="action_clear_all">Clear All</string>
+    <string name="action_logout">Logout</string>
+    <string name="action_mark_all_read">Mark All as Read</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="title_activity_navigationdrawer">Navigationdrawer</string>
+    <string name="taglineforhome">मातृभूमीच्या विकासासाठी.....ध्यास ग्रामविकासाचा, \n प्रयत्न पर्यावरण रक्षणाचा.
+   </string>
+
+
+
+
+
+
+    <string name="contact_name">Name</string>
+    <string name="contact_email">E-Mail</string>
+    <string name="contact_address">Address</string>
+    <string name="contact_website">Website</string>
+    <string name="contact_name_labale">Ekta Foundation</string>
+    <string name="contact_email_label">ektango2016@gmail.com</string>
+    <string name="contact_add_label">Ekta Foundation Office, Mhaswandi,Tal- Sangamner, Dist- Ahmednagar-422602</string>
+    <string name="contact_websitte_label">ektango.blogspot.in</string>
+    <string name="title_activity_navigatioin">Navigatioin</string>
+    <string name="title_activity_main1">Main1Activity</string>
+    <string name="blog">ब्लॉग</string>
+    <string name="a">उपक्रम</string>
+    <string name="aa">संपर्क</string>
+    <string name="s">पुरस्कार</string>
+    <string name="aaaa">आमच्याबद्दल</string>
+    <string name="aas">ग्रामविकास</string>
+    <string name="asas">वेबसाईट</string>
+    <string name="da">महत्वाचे कार्यक्रम</string>
+    <string name="sds">ध्येय</string>
+    <string name="ds">गॅलरी</string>
+    <string name="de">सोशल मिडिया</string>
+    <string name="des">सहाय्य</string>
+    <string name="ss">होम</string>
+
+
+    <string name="m1">होम</string>
+    <string name="m2">आमच्याबद्दल</string>
+    <string name="m3">ध्येय</string>
+    <string name="m4">उपक्रम</string>
+    <string name="m5">ग्रामविकास</string>
+    <string name="m6">गॅलरी</string>
+    <string name="m7">संपर्क</string>
+    <string name="m8">पुरस्कार</string>
+    <string name="m9">सहाय्य</string>
+    <string name="m10">ई-वर्तमानपत्र </string>
+    <string name="m11"> ई-पेमेंट </string>
+    <string name="m12">ऑनलाईन माहिती</string>
+    <string name="m13">प्रतिक्रिया </string>
+
+
+    <string name="name">Ekta Foundation</string>
+    <string name="email">ektango2016@gmail.com</string>
+    <string name="address">Mhaswandi, Tal.Sangamner Dist. Ahmednagar- 422602</string>
+    <string name="website">www.ektafoundationngo.com</string>
+    <string name="phone">02425 323074</string>
+    <string name="shareappmsg">To download Ekta Foundation App Click on following link
+        \n\n https://play.google.com/store/apps/details?id=grdp.ganeshinc.ektango</string>
+    <string name="copyright_ekta_foundation">Copyright @ Ekta Foundation</string>
+
+
+</resources>
+
+
+
+
+
+
+
+
